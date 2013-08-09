@@ -1,7 +1,9 @@
-#List of git aliases. Just cat them onto the existing .bashrc file
-
 alias gc='git commit -a -m '
 alias ga='git add '
 alias gs='git status'
 alias go='git checkout '
 alias gb='git branch '
+alias gp='git push '
+alias gpo='git push origin '
+alias gb='git branch'
+alias gpl='git pull '

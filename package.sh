@@ -8,4 +8,7 @@ rvm install 2.0.0
 rvm rubygems current
 gem install rails
 
-# sudo apt-get -y install pkg1 pkg2 ... pkg3
+sudo -i 
+add-apt-repository ppa:webupd8team/sublime-text-2
+apt-get update
+apt-get install sublime-text-2
